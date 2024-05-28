@@ -465,7 +465,6 @@ layer = 10
 
 [node name="ScoreLabel" type="Label" parent="UI"]
 unique_name_in_owner = true
-anchors_preset = -1
 offset_left = 4.0
 offset_top = 8.0
 offset_right = 232.0
